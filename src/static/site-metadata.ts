@@ -11,8 +11,8 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
-  siteUrl: 'https://wwr-running-page.vercel.app/',
-  logo: '',
+  siteUrl: 'https://wwr650.github.io/running_page',
+  logo: 'public\images\icon.png',
   description: 'Personal site and blog',
   navLinks: [
     {
