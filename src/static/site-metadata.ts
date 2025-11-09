@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
   siteUrl: 'https://wwr650.github.io/running_page',
-  logo: 'public\images\icon.png',
+  logo: 'https://wwr650.github.io/assets/img/favicons/apple-touch-icon.png',
   description: 'Personal site and blog',
   navLinks: [
     {
